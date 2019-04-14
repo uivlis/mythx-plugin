@@ -1,0 +1,24 @@
+{
+  "name": "mythx-plugin",
+  "version": "1.0.0",
+  "description": "A MythX plugin for Embark",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uivlis/mythx-embark-plugin.git"
+  },
+  "keywords": [
+    "mythx",
+    "embark",
+    "plugin"
+  ],
+  "author": "Vlad Silviu Farcas",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/uivlis/mythx-embark-plugin/issues"
+  },
+  "homepage": "https://github.com/uivlis/mythx-embark-plugin#readme"
+}
